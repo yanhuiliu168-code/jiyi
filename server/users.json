@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@example.com",
+    "password": "$2b$10$X8RlBcnCYBORrlL6pDDz9.cvyB1z2uwJVSxgkpebQxY0Y.vS3m/1C",
+    "role": "admin"
+  },
+  {
+    "id": 1776051738666,
+    "username": "test1",
+    "email": "test1@example.com",
+    "password": "$2b$10$X8RlBcnCYBORrlL6pDDz9.6q9BwcZb5gRM8fp0Mk6H0rTGW68.blS",
+    "role": "user"
+  },
+  {
+    "id": 1776051738736,
+    "username": "test2",
+    "email": "test2@example.com",
+    "password": "$2b$10$X8RlBcnCYBORrlL6pDDz9.6q9BwcZb5gRM8fp0Mk6H0rTGW68.blS",
+    "role": "user"
+  },
+  {
+    "id": 1776051738809,
+    "username": "test3",
+    "email": "test3@example.com",
+    "password": "$2b$10$X8RlBcnCYBORrlL6pDDz9.6q9BwcZb5gRM8fp0Mk6H0rTGW68.blS",
+    "role": "user"
+  },
+  {
+    "id": 1776051738881,
+    "username": "test4",
+    "email": "test4@example.com",
+    "password": "$2b$10$X8RlBcnCYBORrlL6pDDz9.6q9BwcZb5gRM8fp0Mk6H0rTGW68.blS",
+    "role": "user"
+  },
+  {
+    "id": 1776051738958,
+    "username": "test5",
+    "email": "test5@example.com",
+    "password": "$2b$10$X8RlBcnCYBORrlL6pDDz9.6q9BwcZb5gRM8fp0Mk6H0rTGW68.blS",
+    "role": "user"
+  },
+  {
+    "id": 1776224990959,
+    "username": "123",
+    "email": "123@qq.com",
+    "password": "$2b$10$Yr5MX6nDCpMRVfBV1I9rzeZy9D.yTYMiyrkp5skR/zwEXlzM7mf6y",
+    "role": "user"
+  }
+]

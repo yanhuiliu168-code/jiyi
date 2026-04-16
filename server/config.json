@@ -1,0 +1,155 @@
+{
+  "defaultBattery": 20,
+  "maxBattery": 30,
+  "defaultReviveItems": 3,
+  "game1": {
+    "levels": [
+      {
+        "level": 1,
+        "flash": 1,
+        "time": 3000,
+        "inter": 4,
+        "difficulty": "⭐",
+        "desc": "1张目标图片，在4个选项中选择",
+        "rounds": 20
+      },
+      {
+        "level": 2,
+        "flash": 2,
+        "time": 3000,
+        "inter": 6,
+        "difficulty": "⭐⭐",
+        "desc": "2张目标图片，在6个选项中选择",
+        "rounds": 20
+      },
+      {
+        "level": 3,
+        "flash": 3,
+        "time": 4000,
+        "inter": 8,
+        "difficulty": "⭐⭐⭐",
+        "desc": "3张目标图片，在8个选项中选择",
+        "rounds": 20
+      },
+      {
+        "level": 4,
+        "flash": 4,
+        "time": 5000,
+        "inter": 8,
+        "difficulty": "⭐⭐⭐⭐",
+        "desc": "4张目标图片，在8个选项中选择",
+        "rounds": 20
+      },
+      {
+        "level": 5,
+        "flash": 5,
+        "time": 6000,
+        "inter": 10,
+        "difficulty": "⭐⭐⭐⭐⭐",
+        "desc": "5张目标图片，在10个选项中选择",
+        "rounds": 20
+      },
+      {
+        "level": 6,
+        "flash": 6,
+        "inter": 12,
+        "time": 8000,
+        "rounds": 20,
+        "difficulty": "⭐⭐⭐⭐⭐⭐",
+        "desc": "6张目标图片，在12个选项中选择"
+      }
+    ]
+  },
+  "game2": {
+    "levels": [
+      {
+        "level": 1,
+        "totalCards": 4,
+        "difficulty": "⭐",
+        "desc": "连续记住1张新出现的卡片",
+        "cardsPerTurn": 1
+      },
+      {
+        "level": 2,
+        "totalCards": 8,
+        "difficulty": "⭐⭐",
+        "desc": "连续记住2张新出现的卡片",
+        "cardsPerTurn": 2
+      },
+      {
+        "level": 3,
+        "totalCards": 12,
+        "difficulty": "⭐⭐⭐",
+        "desc": "连续记住3张新出现的卡片",
+        "cardsPerTurn": 3
+      },
+      {
+        "level": 4,
+        "totalCards": 16,
+        "difficulty": "⭐⭐⭐⭐",
+        "desc": "连续记住4张新出现的卡片",
+        "cardsPerTurn": 4
+      },
+      {
+        "level": 5,
+        "cardsPerTurn": 5,
+        "difficulty": "⭐⭐⭐⭐⭐",
+        "desc": "连续记住5张新出现的卡片"
+      }
+    ]
+  },
+  "game3": {
+    "roundsPerLevel": 5,
+    "levels": [
+      {
+        "level": 1,
+        "targetCount": 2,
+        "displayTime": 3000,
+        "optionsCount": 4,
+        "difficulty": "⭐",
+        "desc": "显示3秒，从4个选项中找出2张原图",
+        "rounds": 40
+      },
+      {
+        "level": 2,
+        "targetCount": 2,
+        "displayTime": 3500,
+        "optionsCount": 6,
+        "difficulty": "⭐⭐",
+        "desc": "显示3.5秒，从6个选项中找出2张原图",
+        "rounds": 40
+      },
+      {
+        "level": 3,
+        "targetCount": 3,
+        "displayTime": 4000,
+        "optionsCount": 6,
+        "difficulty": "⭐⭐⭐",
+        "desc": "显示4秒，从6个选项中找出3张原图",
+        "rounds": 40
+      },
+      {
+        "level": 4,
+        "targetCount": 4,
+        "displayTime": 4500,
+        "optionsCount": 8,
+        "difficulty": "⭐⭐⭐⭐",
+        "desc": "显示4.5秒，从8个选项中找出4张原图",
+        "rounds": 40
+      },
+      {
+        "level": 5,
+        "targetCount": 5,
+        "displayTime": 5000,
+        "optionsCount": 10,
+        "difficulty": "⭐⭐⭐⭐⭐",
+        "desc": "显示5秒，从10个选项中找出5张原图",
+        "rounds": 40
+      }
+    ]
+  },
+  "batteryAlertMessage": "游戏电量不足，请宝爸宝妈们去家长专区看广告进行充电。",
+  "parentConfig": {
+    "videoCooldown": 60
+  }
+}
